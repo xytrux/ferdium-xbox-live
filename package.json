@@ -1,0 +1,10 @@
+{
+  "id": "xbox-live",
+  "name": "Xbox Live",
+  "version": "0.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.xbox.com/en-US/play"
+  },
+  "defaultIcon": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg"
+}
